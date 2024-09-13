@@ -1,20 +1,26 @@
-# Hi there, 👋 I'm Soma Shekhar
 
-## About Me
-Welcome to my Github profile. I'm an aspiring Data Analyst with a passion for turning raw data into actionable insights. I enjoy using tools like Python, SQL, and Excel to analyze data, build visualizations, and support data-driven decision-making.
+<h1 align="center">Hi 👋, I'm Soma Shekhar</h1>
+<h3 align="center">Aspiring Data Analyst from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-## Skills
-- **Programming Languages**: Python, SQL,
-- **Tools**: Excel, Power BI
-- **Data Manipulation**: Pandas, NumPy
-- **Databases**: MySQL
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=somu1112&label=Profile%20views&color=0e75b6&style=flat" alt="somu1112" /> </p>
 
-## Projects
-Here are a few of my key projects:
-- [Sales and Finance Analytics Report]("D:\Data Analyst\1. Excel\CHAPTER 8\my_practice\customer performance report.pdf") – A comprehensive report analyzing sales and financial data.
-- [Business Insights 360](https://app.powerbi.com/view?r=eyJrIjoiODE2ODdjNTEtOTkyNi00MTQ1LWI1MDAtNTM2NzM2MDNjY2U4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+- 🌱 I’m currently learning **SQL**
 
-## Connect with Me
-- **LinkedIn**: https://www.linkedin.com/in/soma-shekhar-y-60b13424a/
-- **Email**: yekabotesomashekhar11@gmail.com
+- 📫 How to reach me **ysomshekar8@gmail.com**
 
+- ⚡ Fun fact **I am funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/linkedin.com/in/soma-shekhar-y-60b13424a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/soma-shekhar-y-60b13424a" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=somu1112&show_icons=true&locale=en&layout=compact" alt="somu1112" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somu1112&show_icons=true&locale=en" alt="somu1112" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somu1112&" alt="somu1112" /></p>
