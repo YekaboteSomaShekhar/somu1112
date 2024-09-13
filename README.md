@@ -1,4 +1,4 @@
-# Hi there, I'm [Soma Shekhar] 👋
+# Hi there, I'm Soma Shekhar 👋
 
 ## About Me
 Welcome to my Github profile. I'm an aspiring Data Analyst with a passion for turning raw data into actionable insights. I enjoy using tools like Python, SQL, and Excel to analyze data, build visualizations, and support data-driven decision-making.
@@ -15,6 +15,6 @@ Here are a few of my key projects:
 - [Business Insights 360](https://app.powerbi.com/view?r=eyJrIjoiODE2ODdjNTEtOTkyNi00MTQ1LWI1MDAtNTM2NzM2MDNjY2U4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Connect with Me
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/soma-shekhar-y-60b13424a/)
-- **Email**: [youremail@example.com](mailto:yekabotesomashekhar11@gmail.com)
+- **LinkedIn**: https://www.linkedin.com/in/soma-shekhar-y-60b13424a/
+- **Email**: yekabotesomashekhar11@gmail.com
 
