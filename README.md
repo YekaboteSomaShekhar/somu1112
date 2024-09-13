@@ -1,4 +1,10 @@
-# Hi there, I'm Soma Shekhar 👋
+# Hi there, 👋 I'm Soma Shekhar
+
+## My Data Analysis Journey
+
+https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/README.md
+
+
 
 ## About Me
 Welcome to my Github profile. I'm an aspiring Data Analyst with a passion for turning raw data into actionable insights. I enjoy using tools like Python, SQL, and Excel to analyze data, build visualizations, and support data-driven decision-making.
