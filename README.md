@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm [Soma Shekhar] 👋
 
-<!--
-**somu1112/somu1112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Welcome to my Github profile. I'm an aspiring Data Analyst with a passion for turning raw data into actionable insights. I enjoy using tools like Python, SQL, and Excel to analyze data, build visualizations, and support data-driven decision-making.
 
-Here are some ideas to get you started:
+## Skills
+- **Programming Languages**: Python, SQL,
+- **Tools**: Excel, Power BI
+- **Data Manipulation**: Pandas, NumPy
+- **Databases**: MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+Here are a few of my key projects:
+- [Sales and Finance Analytics Report](https://github.com/somu1112/sales-finance-analytics) – A comprehensive report analyzing sales and financial data.
+- [Business Insights 360](https://app.powerbi.com/view?r=eyJrIjoiODE2ODdjNTEtOTkyNi00MTQ1LWI1MDAtNTM2NzM2MDNjY2U4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+## Connect with Me
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/soma-shekhar-y-60b13424a/)
+- **Email**: [youremail@example.com](mailto:yekabotesomashekhar11@gmail.com)
+
