@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Soma Shekhar</h1>
 <h3 align="center">Aspiring Data Analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://orbitpeople.com/images/bi-services-full-width.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somu1112&label=Profile%20views&color=0e75b6&style=flat" alt="somu1112" /> </p>
 
