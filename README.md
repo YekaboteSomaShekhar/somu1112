@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **ysomshekar8@gmail.com**
 
-- ⚡ Fun fact **I am funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/soma-shekhar-y-60b13424a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/soma-shekhar-y-60b13424a" height="30" width="40" /></a>
