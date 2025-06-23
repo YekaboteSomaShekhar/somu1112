@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **yekabotesomashekhar11@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RnCp5nSQ--QQxGTU8aGsrWXLbHgST4w6/view?usp=sharing](https://drive.google.com/file/d/1RnCp5nSQ--QQxGTU8aGsrWXLbHgST4w6/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ZDTKAYGoPJJ8mWpsAW9ZG404Rivf2Tjd/view?usp=sharing)
 
 - ⚡ Fun fact **Data tells a story, and I love being the storyteller!**
 
